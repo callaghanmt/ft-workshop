@@ -1,5 +1,5 @@
 # Fine-Tuning Small Language Models with Huggingface Transformers and Unsloth
-These workshop materials are for the worksho run at the Open University on 2025-11-24
+These workshop materials are for the workshop run at the Open University on 2025-11-24
 
 ## Creating Stoic Gemma
 
